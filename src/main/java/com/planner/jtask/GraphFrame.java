@@ -177,7 +177,7 @@ public class GraphFrame extends javax.swing.JFrame {
             infoLabel.setText(counter + " nodes");
             counter++;
         }
-//        pack();
+        pack();
 //        mxGraphComponent graphComponent = new mxGraphComponent(graph);
 //        rootPanel.add(graphComponent);
     }//GEN-LAST:event_addButtonActionPerformed
